@@ -1661,4 +1661,7 @@ padding-right: 5px;
         .earn_item p{
             margin-top: 0;
         }
+        .earn_item p{
+            font-size: 35px;
+        }
     }
