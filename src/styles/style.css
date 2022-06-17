@@ -1653,5 +1653,12 @@ padding-right: 5px;
         .register t{
             margin-left: 2px;
         }
-
+        .earn_item{
+            font-size: 35px;
+            height: 103px;
+            padding: 18px 5px 24px 17px;
+        }
+        .earn_item p{
+            margin-top: 0;
+        }
     }
