@@ -1507,8 +1507,8 @@ padding-right: 5px;
             margin-top: 25px;
         }
         .profile_photo {
-            margin-right: 14px;
-            width: 100px;
+            margin-right: 9px;
+            width: 79px;
             height: auto;
         }
         .profile .column {
@@ -1647,4 +1647,11 @@ padding-right: 5px;
         .earn_item{
             width: 100%;
         }
+        .register{
+            font-size: 16px;
+        }
+        .register t{
+            margin-left: 2px;
+        }
+
     }
