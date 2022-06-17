@@ -136,8 +136,7 @@ const resources = {
         earn_item1: "Ваш доход",
         earn_item2: "Реф начисление",
         earn_item3: "Время до начал сл. круга",
-        btn_register: "",        
-
+          
     },
   },
 };
